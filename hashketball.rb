@@ -212,6 +212,7 @@ end
 def team_names
     #return array of team names
 names = []
+
   game_hash.each do |team_side_key, team_data|
     names << team_data[:team_name]
   end
