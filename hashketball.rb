@@ -217,3 +217,9 @@ names = []
   end
 names
 end
+
+def player_numbers
+  
+  
+  
+end
