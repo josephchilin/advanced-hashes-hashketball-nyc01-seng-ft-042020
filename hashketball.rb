@@ -270,7 +270,7 @@ def big_shoe_rebounds
   rebounds = 0
   
   game_hash.each do |team_side_key, team_data_value|
-    
+    team_data_value[:players].each do |player, stats|
     
     
   end
