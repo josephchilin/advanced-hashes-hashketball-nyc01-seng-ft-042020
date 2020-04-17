@@ -263,6 +263,10 @@ end
 
 def big_shoe_rebounds
   
+  big_shoe = 10
+  rebounds = 10
+  
+  
   
   
 end
