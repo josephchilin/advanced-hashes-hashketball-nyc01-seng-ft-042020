@@ -239,8 +239,7 @@ jersey_numbers = []
 jersey_numbers
 end
 
-def player_stats(player_name
-)
+def player_stats(player_name)
     # if player name == TK name
     # return hash of stats
   
