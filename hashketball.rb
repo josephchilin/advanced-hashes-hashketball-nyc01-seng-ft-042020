@@ -209,7 +209,7 @@ def team_colors(team_name)
 end
 
 
-def team_names(game_hash)
+def team_names
     #return array of team names
 names = []
 
