@@ -228,6 +228,7 @@ jersey_numbers = []
   game_hash.each do |team_side_key, team_data_value|
     team_data_value[:players].each do |player, stats|
       if team_data_value[:team_name] == team_name
+        
         jersey_numbers << player[:number]
     
       end
