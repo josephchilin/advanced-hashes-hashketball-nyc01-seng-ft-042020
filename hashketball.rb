@@ -229,7 +229,7 @@ jersey_numbers = []
     team_data_value[:players].each do |player, stats|
     
     
-    
+    end
   end
 end
 
