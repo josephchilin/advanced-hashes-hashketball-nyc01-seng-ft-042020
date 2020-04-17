@@ -256,7 +256,7 @@ player_stats = {}
     end
   end
 
-
+player_stats
 end
 
 
