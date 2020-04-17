@@ -240,7 +240,8 @@ jersey_numbers
 end
 
 def player_stats(name)
-  
+    # if name
+    # return hash of stats
   
 
 
