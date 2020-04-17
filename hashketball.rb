@@ -239,7 +239,7 @@ jersey_numbers = []
 jersey_numbers
 end
 
-def player_stats
+def player_stats(name)
   
   
 
