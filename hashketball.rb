@@ -233,7 +233,6 @@ jersey_numbers = []
         jersey_numbers << player[:number]
     
       end
-    
     end
   end
   
