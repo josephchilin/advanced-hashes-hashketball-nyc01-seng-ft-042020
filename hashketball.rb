@@ -218,8 +218,9 @@ names = []
 names
 end
 
-def player_numbers
-  
+def player_numbers(team_name)
+    # if team name
+    # return Array of jersey numbers 
   
   
 end
