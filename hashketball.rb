@@ -140,7 +140,7 @@ end
 #     team_name: "Brooklyn Nets",
 #     colors: ["Black", "White"],
 #     players: [
-#------>team_player
+#------>player
 #       {
 #-------->stats
 #---------------------->name_string
