@@ -243,7 +243,7 @@ def player_stats(player_name)
     # if player name == TK name
     # return hash of stats
 
-player_stats = {}
+# player_stats = {}
 
   game_hash.each do |team_side_key, team_data_value|
     team_data_value[:players].each do |player, stats|    
@@ -257,7 +257,7 @@ player_stats = {}
     end
   end
 
-player_stats
+# player_stats
 end
 
 
