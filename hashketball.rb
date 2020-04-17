@@ -221,6 +221,23 @@ end
 def player_numbers(team_name)
     # if team name
     # return Array of jersey numbers 
-  
-  
+  game_hash.each do |team_side, team_data|
+    
+    
+    
+    
+  end
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
