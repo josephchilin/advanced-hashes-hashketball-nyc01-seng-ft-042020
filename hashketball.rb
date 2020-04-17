@@ -239,7 +239,12 @@ jersey_numbers = []
 jersey_numbers
 end
 
+def player_stats
+  
+  
 
+
+end
 
 
 
