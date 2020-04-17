@@ -249,7 +249,7 @@ player_stats = {}
     team_data_value[:players].each do |player, stats|    
       if player[:player_name] == player_name
         
-  
+        player_stats << 
   
       
       end
