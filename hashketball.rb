@@ -226,7 +226,7 @@ def player_numbers(team_name)
 jersey_numbers = []
 
   game_hash.each do |team_side_key, team_data_value|
-    team_data_value[:players].each do |
+    team_data_value[:players].each do |player, stats|
     
     
     
