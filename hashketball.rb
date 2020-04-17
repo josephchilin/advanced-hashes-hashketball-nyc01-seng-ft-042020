@@ -249,9 +249,10 @@ player_stats = {}
     team_data_value[:players].each do |player, stats|    
       if player[:player_name] == player_name
           binding.pry
-        player_stats << player.except(:player_name)
+   #     player_stats << player.except(:player_name)
+          
+          return player
   
-
       end
     end
   end
