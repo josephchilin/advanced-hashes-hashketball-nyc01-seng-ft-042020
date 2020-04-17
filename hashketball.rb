@@ -235,6 +235,7 @@ jersey_numbers = []
     
     end
   end
+jersey_numbers
 end
 
 
