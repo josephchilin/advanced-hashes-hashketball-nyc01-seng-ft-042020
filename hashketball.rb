@@ -247,6 +247,8 @@ def player_stats(player_name)
     team_data_value[:players].each do |player, stats|    
     
     
+    
+    end
   end
 
 
