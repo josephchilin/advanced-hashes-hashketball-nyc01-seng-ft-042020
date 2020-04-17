@@ -240,7 +240,7 @@ jersey_numbers
 end
 
 def player_stats(name)
-    # if name
+    # if player name == TK name
     # return hash of stats
   
 
