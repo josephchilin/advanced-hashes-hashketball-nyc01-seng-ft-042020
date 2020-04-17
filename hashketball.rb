@@ -251,7 +251,7 @@ player_stats = {}
         
         player_stats << player.except(:player_name)
   
-      
+      pry
       end
     end
   end
